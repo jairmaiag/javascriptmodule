@@ -1,0 +1,17 @@
+table {
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+}
+th, td {
+    border-bottom: 1px solid #bbb9b9;
+    background: #f1efef;
+}
+input{
+    width: 50px;
+}
+.centralize{
+    text-align: center;
+}
+.esquerda{
+    text-align: right;
+}
